@@ -1,0 +1,16 @@
+# Ignore python system files
+__pycache__/
+*.pyc
+
+# Ignore Dataset (Too big for GitHub)
+*.wav
+*.mp3
+*.flac
+*.zip
+
+# Ignore specific large files if you have them locally
+E:/Speech_Data_Cache/
+
+# Ignore IDE settings
+.vscode/
+.idea/
